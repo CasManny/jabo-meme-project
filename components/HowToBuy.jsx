@@ -7,7 +7,7 @@ import Image from 'next/image';
 const HowToBuy = () => {
   return (
       <div id='howtobuy' className='container my-6 mx-auto h-max '>
-          <h1 className="text-center text-white capitalize font-extrabold text-2xl">How to buy $JAGOcoin</h1>
+          <h1 className="text-center text-white capitalize font-extrabold text-3xl">How to buy $JAGOcoin</h1>
           <VerticalTimeline>
   <VerticalTimelineElement
     className="vertical-timeline-element--work"

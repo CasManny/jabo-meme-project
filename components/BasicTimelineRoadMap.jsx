@@ -4,7 +4,7 @@ const BasicTimelineRoadMap = () => {
   return (
     <div id='roadmap' className='w-full my-10 h-max p-4'>
       <div className="container">
-        <h1 className="text-center text-white font-extrabold text-2xl">Roadmap</h1>
+        <h1 className="text-center text-white font-extrabold text-3xl">Roadmap</h1>
         <div className="card-container grid lg:grid-cols-3 sm:grid-cols-1 mt-5 gap-4">
 
       <div className="card p-6 rounded-sm">
