@@ -117,7 +117,8 @@ export default function JaboEcosystem() {
         </AccordionSummary>
         <AccordionDetails>
           <Typography noWrap='false'>
-           0xA0EcE74981AF3eD84D4659fe1F469E7c47e5Ed33
+            {/* 0xA0EcE74981AF3eD84D4659fe1F469E7c47e5Ed33 */}
+            0x4aa2dd3a305c7250ca8833f97b7aee1d42d2b58d
           </Typography>
         </AccordionDetails>
       </Accordion>
